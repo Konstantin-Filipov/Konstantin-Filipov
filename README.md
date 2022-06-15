@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Konstantin-Filipov
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning linux 
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning linux
 - 💞️ I’m looking to collaborate with people who have creative and fresh ideas 
 - 📫 How to reach me -> kosio1234545@gmail.com
 
