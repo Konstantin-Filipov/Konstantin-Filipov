@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning web-development
 - 💞️ I’m looking to collaborate with people who have creative and fresh ideas 
-- 📫 How to reach me -> kosio1234545@gmail.com
+- 📫 How to reach me -> konstantin.filipov00@gmail.com
 
 <!---
 Konstantin-Filipov/Konstantin-Filipov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
