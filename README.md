@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Konstantin-Filipov
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning web-development
+- 👀 I’m interested in software/game development
+- 🌱 I’m currently learning web and app development
 - 💞️ I’m looking to collaborate with people who have creative and fresh ideas 
 - 📫 How to reach me -> konstantin.filipov00@gmail.com
 
